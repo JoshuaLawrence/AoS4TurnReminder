@@ -12,8 +12,8 @@ Currently working:
 ToDo (no specific order):
 - Battle Formation ability parsing
 - Manifestation Lore parsing
- - add casting spells to Hero phase
- - add manifestation abilities to relevant phase
+ -- add casting spells to Hero phase
+ -- add manifestation abilities to relevant phase
 - Prayer/Spell Lore parsing
 - Faction Terrain ability parsing
 - Army Parsing - track unit keywords
@@ -21,6 +21,6 @@ ToDo (no specific order):
 - Move Passives to relevant Phases
 - Parsing for Core Rules and GHB unit enhancements
 - Improved UI for desktop
- - collapsable Phase containers
- - separate collapsable Ability/Command/Spell/Prayer/Manifestation/WeaponProfile containers
+ -- collapsable Phase containers
+ -- separate collapsable Ability/Command/Spell/Prayer/Manifestation/WeaponProfile containers
 - Mobile/iPad UI
